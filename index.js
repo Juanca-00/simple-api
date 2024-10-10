@@ -24,7 +24,7 @@ const writeData = (data) => {
 }
 
 app.get("/", (req, res) => {
-    res.send("Bienvenido a mi primera API!!!!");
+    res.send("Bienvenido a mi primera API!!!!  ESTE ES UN MENSAJE DE PRUEBA");
 });
 
 
